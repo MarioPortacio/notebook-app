@@ -23,7 +23,7 @@ Una aplicación de escritorio de alto rendimiento para la gestión de notas pers
 
 ## 📦 Instalación (Desarrollo)
 
-Si deseas ejecutar este proyecto localmente para desarrollo:
+A) Si deseas ejecutar este proyecto localmente para desarrollo:
 
 1. **Clonar el repositorio:**
    git clone [https://github.com/MarioPortacio/notebook-app.git](https://github.com/MarioPortacio/notebook-app.git)
@@ -34,3 +34,8 @@ Si deseas ejecutar este proyecto localmente para desarrollo:
 
 3. **Ejecutar en modo dev:**
     npm run tauri dev
+
+B) Si deseas instalar la aplicación:
+
+   En la sección **Releases** de este repositorio encontrará el archivo instalador .msi
+   Descarga y ejecuta el archivo .msi para instalar la aplicación en Windows.
