@@ -2,6 +2,15 @@
 
 Una aplicación de escritorio de alto rendimiento para la gestión de notas personales, construida con **Tauri**, **SvelteKit** y **SQLite**.
 
+---
+
+![Home](https://github.com/MarioPortacio/notebook-app/blob/e76dbc78b0aa76074a308a581cbf32dccad83d38/img/p1.jpg)
+
+![Nota 1](https://github.com/MarioPortacio/notebook-app/blob/e76dbc78b0aa76074a308a581cbf32dccad83d38/img/p2.jpg)
+
+---
+
+
 
 ## 🚀 Características
 
@@ -10,6 +19,8 @@ Una aplicación de escritorio de alto rendimiento para la gestión de notas pers
 - **Guardado Automático:** Sincronización en tiempo real entre el estado del frontend y la base de datos.
 - **Exportación Nativa:** Capacidad para exportar notas directamente a archivos `.txt` usando la API nativa del SO.
 - **Rendimiento Optimizado:** Binario ligero gracias a la arquitectura de Rust, con un consumo mínimo de memoria RAM.
+
+---
 
 ## 🛠️ Stack Tecnológico
 
@@ -20,6 +31,8 @@ Una aplicación de escritorio de alto rendimiento para la gestión de notas pers
 | **Backend** | Rust (Tauri v2) |
 | **Database** | SQLite (tauri-plugin-sql) |
 | **OS Bridge** | Tauri API (Dialog, FS) |
+
+---
 
 ## 📦 Instalación (Desarrollo)
 
@@ -39,3 +52,5 @@ B) Si deseas instalar la aplicación:
 
    En la sección **Releases** de este repositorio encontrará el archivo instalador .msi
    Descarga y ejecuta el archivo .msi para instalar la aplicación en Windows.
+   
+---
